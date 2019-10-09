@@ -9,3 +9,4 @@ Participaram desse workshop os seguintes:
 | Nome                                          | email                                        |
 | --------------------------------------------- | ---------------------------------------------|
 | Fernando de Andrade Pereira                   | fernando.an.pereira@gmail.com                |  
+| Lucas Hosoya                                  | shigaaaa@gmail.com
